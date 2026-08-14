@@ -1,6 +1,33 @@
 # PartialDifferentialEquations
 
-偏微分方程（PDE）课程笔记与习题集。Course notes, exercises and figures for Partial Differential Equations.
+偏微分方程（PDE）课程资料仓库 — 姜礼尚教材笔记与习题。
+
+## Structure
+
+```
+PartialDifferentialEquations/
+├── main.tex
+├── 00-Course/              # 课程信息 / 大纲 / 课程地图
+├── 01-Textbooks/
+│   └── 00-姜礼尚/          # 教材：姜礼尚《偏微分方程》
+│       ├── main.tex
+│       ├── 01-Notes/       # 笔记（5 章 × 节 × 小节）
+│       └── 02-Homework/    # 习题（镜像笔记结构）
+├── 02-Template/            # NotesTemplate / HomeworkTemplate
+├── 03-Figures/             # 00-姜礼尚 配图
+├── 04-References/          # references.bib
+└── Settings/               # PackageSet / EnvironmentSet
+```
+
+## Chapters（姜礼尚）
+
+| 章 | 内容 | 页 |
+|----|------|----|
+| 第一章 | 方程的导出和定解条件 | P1 |
+| 第二章 | 波动方程 | P31 |
+| 第三章 | 热传导方程 | P108 |
+| 第四章 | 位势方程 | P169 |
+| 第五章 | 二阶线性偏微分方程的分类 | P221 |
 
 ## Course Architecture
 
@@ -8,33 +35,8 @@
   <img src="pde_course_architecture.drawio.svg" width="100%" alt="PDE Course Architecture" />
 </p>
 
-## Structure
-
-```
-PartialDifferentialEquations/
-├── main.tex
-├── 01-Content/        # 章节笔记（3 章 × 节 × 小节）
-│   ├── chapter01-Introduction/
-│   ├── chapter02-FirstOrderPDE/
-│   └── chapter03-SecondOrderPDE/
-├── 02-Exercises/      # 习题（镜像笔记结构）
-├── 03-Figures/        # 章节配图
-├── 04-References/     # references.bib
-└── Settings/          # PackageSet/EnvironmentSet/CommandSet/TheoremSet
-```
-
-## Chapters
-
-| Chapter | 内容 |
-|---------|------|
-| 01-Introduction | 基本概念、分类、典型例子（Laplace/Heat/Wave） |
-| 02-FirstOrderPDE | 特征线法、输运方程、Hamilton-Jacobi 方程 |
-| 03-SecondOrderPDE | 分类（椭圆/抛物/双曲）、Laplace、Heat、Wave 方程 |
-
 ## Build
 
 ```bash
-xelatex main.tex
+cd 01-Textbooks/00-姜礼尚 && xelatex main.tex
 ```
-
-See [CONTRIBUTING.md](CONTRIBUTING.md).
