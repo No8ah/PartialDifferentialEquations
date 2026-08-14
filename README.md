@@ -21,13 +21,17 @@ PartialDifferentialEquations/
 
 ## Chapters（姜礼尚）
 
+<div align="center">
+
 | 章 | 内容 | 页 |
-|----|------|----|
+|:---:|:---:|:---:|
 | 第一章 | 方程的导出和定解条件 | P1 |
 | 第二章 | 波动方程 | P31 |
 | 第三章 | 热传导方程 | P108 |
 | 第四章 | 位势方程 | P169 |
 | 第五章 | 二阶线性偏微分方程的分类 | P221 |
+
+</div>
 
 ## Course Architecture
 
