@@ -46,15 +46,9 @@ PartialDifferentialEquations/
 ## Latex Playground Preview
 
 <p align="center">
-  <img src="03-Figures/latex-playground-pages/main-page-9.svg" width="32%" alt="latex playground main.pdf page 9" />
-  <img src="03-Figures/latex-playground-pages/main-page-10.svg" width="32%" alt="latex playground main.pdf page 10" />
-  <img src="03-Figures/latex-playground-pages/main-page-11.svg" width="32%" alt="latex playground main.pdf page 11" />
-</p>
-
-<p align="center">
-  <a href="03-Figures/latex-playground-pages/main-page-9.pdf">Page 9 PDF</a> ·
-  <a href="03-Figures/latex-playground-pages/main-page-10.pdf">Page 10 PDF</a> ·
-  <a href="03-Figures/latex-playground-pages/main-page-11.pdf">Page 11 PDF</a>
+  <img src="03-Figures/latex-playground-pages/main-page-9.pdf" width="32%" alt="latex playground main.pdf page 9" />
+  <img src="03-Figures/latex-playground-pages/main-page-10.pdf" width="32%" alt="latex playground main.pdf page 10" />
+  <img src="03-Figures/latex-playground-pages/main-page-11.pdf" width="32%" alt="latex playground main.pdf page 11" />
 </p>
 
 ## Course Architecture
