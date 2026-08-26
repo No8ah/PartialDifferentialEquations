@@ -45,11 +45,25 @@ PartialDifferentialEquations/
 
 ## Latex Playground Preview
 
-<p align="center">
-  <img src="03-Figures/latex-playground-pages/main-page-9.pdf" width="32%" alt="latex playground main.pdf page 9" />
-  <img src="03-Figures/latex-playground-pages/main-page-10.pdf" width="32%" alt="latex playground main.pdf page 10" />
-  <img src="03-Figures/latex-playground-pages/main-page-11.pdf" width="32%" alt="latex playground main.pdf page 11" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="03-Figures/latex-playground-pages/main-page-9.png" width="100%" alt="latex playground main.pdf page 9" />
+      <br />
+      <a href="03-Figures/latex-playground-pages/main-page-9.pdf">Download Page 9 PDF</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="03-Figures/latex-playground-pages/main-page-10.png" width="100%" alt="latex playground main.pdf page 10" />
+      <br />
+      <a href="03-Figures/latex-playground-pages/main-page-10.pdf">Download Page 10 PDF</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="03-Figures/latex-playground-pages/main-page-11.png" width="100%" alt="latex playground main.pdf page 11" />
+      <br />
+      <a href="03-Figures/latex-playground-pages/main-page-11.pdf">Download Page 11 PDF</a>
+    </td>
+  </tr>
+</table>
 
 ## Course Architecture
 
