@@ -43,6 +43,14 @@ PartialDifferentialEquations/
   <img src="03-Figures/SYSU%20%26%20PDE%20ASC%20Banner.png" width="100%" alt="SYSU and PDE ASC Banner" />
 </p>
 
+## Latex Playground Preview
+
+<p align="center">
+  <img src="03-Figures/latex-playground-pages/main-page-9.svg" width="32%" alt="latex playground main.pdf page 9" />
+  <img src="03-Figures/latex-playground-pages/main-page-10.svg" width="32%" alt="latex playground main.pdf page 10" />
+  <img src="03-Figures/latex-playground-pages/main-page-11.svg" width="32%" alt="latex playground main.pdf page 11" />
+</p>
+
 ## Course Architecture
 
 <p align="center">
