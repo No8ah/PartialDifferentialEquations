@@ -51,6 +51,12 @@ PartialDifferentialEquations/
   <img src="03-Figures/latex-playground-pages/main-page-11.svg" width="32%" alt="latex playground main.pdf page 11" />
 </p>
 
+<p align="center">
+  <a href="03-Figures/latex-playground-pages/main-page-9.pdf">Page 9 PDF</a> ·
+  <a href="03-Figures/latex-playground-pages/main-page-10.pdf">Page 10 PDF</a> ·
+  <a href="03-Figures/latex-playground-pages/main-page-11.pdf">Page 11 PDF</a>
+</p>
+
 ## Course Architecture
 
 <p align="center">
