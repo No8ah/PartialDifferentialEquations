@@ -33,6 +33,16 @@ PartialDifferentialEquations/
 
 </div>
 
+## Figures
+
+<p align="center">
+  <img src="03-Figures/SYSU%20%26%20PDE.png" width="100%" alt="SYSU and PDE" />
+</p>
+
+<p align="center">
+  <img src="03-Figures/SYSU%20%26%20PDE%20ASC%20Banner.png" width="100%" alt="SYSU and PDE ASC Banner" />
+</p>
+
 ## Course Architecture
 
 <p align="center">
