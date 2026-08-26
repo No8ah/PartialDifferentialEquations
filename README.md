@@ -40,7 +40,11 @@ PartialDifferentialEquations/
 </p>
 
 <p align="center">
-  <img src="03-Figures/SYSU%20%26%20PDE%20ASC%20Banner.png" width="100%" alt="SYSU and PDE ASC Banner" />
+  <img src="03-Figures/SYSU%20%26%20PDE%20ASC%20Banner2.PNG" width="100%" alt="SYSU and PDE ASC Banner" />
+</p>
+
+<p align="center">
+  <img src="03-Figures/coming-soon.PNG" width="100%" alt="Coming soon" />
 </p>
 
 ## Latex Playground Preview
@@ -76,3 +80,7 @@ PartialDifferentialEquations/
 ```bash
 cd 01-Textbooks/00-姜礼尚 && xelatex main.tex
 ```
+
+## License
+
+## Contributors
