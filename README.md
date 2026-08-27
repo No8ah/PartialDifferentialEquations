@@ -49,6 +49,8 @@ PartialDifferentialEquations/
 
 ## Latex Playground Preview
 
+Page 10 and Page 11 PDFs were refreshed from the latest local extraction.
+
 <table>
   <tr>
     <td align="center" width="33%">
