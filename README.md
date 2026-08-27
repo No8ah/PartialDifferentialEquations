@@ -85,4 +85,16 @@ cd 01-Textbooks/00-姜礼尚 && xelatex main.tex
 
 ## License
 
+This repository is for personal academic note-taking and course study purposes only.
+
+The lecture notes, exercises, figures, and derivative materials are organized for learning and review. Original textbook content belongs to its respective authors and publishers. Please do not use this repository for commercial distribution.
+
+Unless otherwise stated, original notes written by the repository owner are shared for non-commercial educational reference.
+
+## Acknowledgements
+
+This repository references the textbook structure of Jiang Lishang's *Partial Differential Equations* for personal study organization. All rights to the original textbook content remain with the original author and publisher.
+
 ## Contributors
+
+- [No8ah](https://github.com/No8ah) — repository maintainer, notes organization, LaTeX structure, figures, and course material curation.
