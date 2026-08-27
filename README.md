@@ -2,6 +2,53 @@
 
 偏微分方程（PDE）课程资料仓库 — 姜礼尚教材笔记与习题。
 
+## Figures
+
+<p align="center">
+  <img src="03-Figures/SYSU%20%26%20PDE.png" width="100%" alt="SYSU and PDE" />
+</p>
+
+<p align="center">
+  <img src="03-Figures/SYSU%20%26%20PDE%20ASC%20Banner.png" width="100%" alt="SYSU and PDE ASC Banner" />
+</p>
+
+<p align="center">
+  <img src="03-Figures/coming-soon.PNG" width="100%" alt="Coming soon" />
+</p>
+
+## Latex Playground Preview
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="03-Figures/latex-playground-pages/main-page-9.png" width="100%" alt="latex playground main.pdf page 9" />
+    </td>
+    <td align="center" width="33%">
+      <img src="03-Figures/latex-playground-pages/main-page-10.png" width="100%" alt="latex playground main.pdf page 10" />
+    </td>
+    <td align="center" width="33%">
+      <img src="03-Figures/latex-playground-pages/main-page-11.png" width="100%" alt="latex playground main.pdf page 11" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="03-Figures/latex-playground-pages/main-page-9.pdf">main-page-9.pdf</a>
+    </td>
+    <td align="center">
+      <a href="03-Figures/latex-playground-pages/main-page-10.pdf">main-page-10.pdf</a>
+    </td>
+    <td align="center">
+      <a href="03-Figures/latex-playground-pages/main-page-11.pdf">main-page-11.pdf</a>
+    </td>
+  </tr>
+</table>
+
+## Course Architecture
+
+<p align="center">
+  <img src="pde_course_architecture.drawio.svg" width="100%" alt="PDE Course Architecture" />
+</p>
+
 ## Structure
 
 ```
@@ -33,46 +80,7 @@ PartialDifferentialEquations/
 
 </div>
 
-## Figures
-
-<p align="center">
-  <img src="03-Figures/SYSU%20%26%20PDE.png" width="100%" alt="SYSU and PDE" />
-</p>
-
-<p align="center">
-  <img src="03-Figures/SYSU%20%26%20PDE%20ASC%20Banner.png" width="100%" alt="SYSU and PDE ASC Banner" />
-</p>
-
-<p align="center">
-  <img src="03-Figures/coming-soon.PNG" width="100%" alt="Coming soon" />
-</p>
-
-## Latex Playground Preview
-
-The selected latex playground pages are available as refreshed PDF extracts.
-
-<div align="center">
-
-| Page | PDF |
-|:---:|:---:|
-| Page 10 | [main-page-10.pdf](03-Figures/latex-playground-pages/main-page-10.pdf) |
-| Page 11 | [main-page-11.pdf](03-Figures/latex-playground-pages/main-page-11.pdf) |
-
-</div>
-
-## Course Architecture
-
-<p align="center">
-  <img src="pde_course_architecture.drawio.svg" width="100%" alt="PDE Course Architecture" />
-</p>
-
-## Build
-
-```bash
-cd 01-Textbooks/00-姜礼尚 && xelatex main.tex
-```
-
-# Install
+## Install
 
 ## Step1
 
@@ -87,8 +95,6 @@ This repository is for personal academic note-taking and course study purposes o
 The lecture notes, exercises, figures, and derivative materials are organized for learning and review. Original textbook content belongs to its respective authors and publishers. Please do not use this repository for commercial distribution.
 
 Unless otherwise stated, original notes written by the repository owner are shared for non-commercial educational reference.
-
-## Acknowledgements
 
 This repository references the textbook structure of Jiang Lishang's *Partial Differential Equations* for personal study organization. All rights to the original textbook content remain with the original author and publisher.
 
