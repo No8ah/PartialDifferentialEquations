@@ -49,27 +49,16 @@ PartialDifferentialEquations/
 
 ## Latex Playground Preview
 
-Page 10 and Page 11 PDFs were refreshed from the latest local extraction.
+The selected latex playground pages are available as refreshed PDF extracts.
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="03-Figures/latex-playground-pages/main-page-9.png" width="100%" alt="latex playground main.pdf page 9" />
-      <br />
-      <a href="03-Figures/latex-playground-pages/main-page-9.pdf">Download Page 9 PDF</a>
-    </td>
-    <td align="center" width="33%">
-      <img src="03-Figures/latex-playground-pages/main-page-10.png" width="100%" alt="latex playground main.pdf page 10" />
-      <br />
-      <a href="03-Figures/latex-playground-pages/main-page-10.pdf">Download Page 10 PDF</a>
-    </td>
-    <td align="center" width="33%">
-      <img src="03-Figures/latex-playground-pages/main-page-11.png" width="100%" alt="latex playground main.pdf page 11" />
-      <br />
-      <a href="03-Figures/latex-playground-pages/main-page-11.pdf">Download Page 11 PDF</a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| Page | PDF |
+|:---:|:---:|
+| Page 10 | [main-page-10.pdf](03-Figures/latex-playground-pages/main-page-10.pdf) |
+| Page 11 | [main-page-11.pdf](03-Figures/latex-playground-pages/main-page-11.pdf) |
+
+</div>
 
 ## Course Architecture
 
